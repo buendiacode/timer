@@ -1,5 +1,6 @@
-archives/
-git_log
-run.js
-run0.js
-specification
+./archives/
+./.DS_Store
+./git_log
+./run.js
+./run0.js
+./specification
