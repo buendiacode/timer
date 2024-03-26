@@ -1,6 +1,7 @@
-./archives/
-./.DS_Store
-./git_log
-./run.js
-./run0.js
-./specification
+.vscode/
+archives/
+.DS_Store
+git_log
+run.js
+run0.js
+specification
